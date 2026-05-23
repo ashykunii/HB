@@ -29,7 +29,7 @@ const compliments = [
     { text: "Two kheang", img: "assets/inside04.png" },
     { text: "Miss sitting with you!", img: "assets/outside04.png" },
     { text: "You before temple, lol.", img: "assets/inside05.png" },
-    { text: "Room 249", img: "/assets/outside05.png" }
+    { text: "Room 249", img: "assets/outside05.png" }
 ];
 
 function shuffleArray(array) {
