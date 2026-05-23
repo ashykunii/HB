@@ -20,15 +20,15 @@ let playerPos = { r: 1, c: 1 };
 
 // Compliments Array with optional photos (replace with your own Pinterest/photos!)
 const compliments = [
-    { text: "Field Trip Day 1!!!", img: "/assets/inside01.png" },
-    { text: "Finding Dory!", img: "/assets/outside01.png" },
-    { text: "Aquarium Pic!!!", img: "/assets/inside02.png" },
-    { text: "Grad Pic with you!", img: "/assets/outside02.png" },
-    { text: "You and our principal.", img: "/assets/inside03.png" },
-    { text: "Us under the boiling sun!!!", img: "/assets/outside03.png" },
-    { text: "Two kheang", img: "/assets/inside04.png" },
-    { text: "Miss sitting with you!", img: "/assets/outside04.png" },
-    { text: "You before temple, lol.", img: "/assets/inside05.png" },
+    { text: "Field Trip Day 1!!!", img: "assets/inside01.png" },
+    { text: "Finding Dory!", img: "assets/outside01.png" },
+    { text: "Aquarium Pic!!!", img: "assets/inside02.png" },
+    { text: "Grad Pic with you!", img: "assets/outside02.png" },
+    { text: "You and our principal.", img: "assets/inside03.png" },
+    { text: "Us under the boiling sun!!!", img: "assets/outside03.png" },
+    { text: "Two kheang", img: "assets/inside04.png" },
+    { text: "Miss sitting with you!", img: "assets/outside04.png" },
+    { text: "You before temple, lol.", img: "assets/inside05.png" },
     { text: "Room 249", img: "/assets/outside05.png" }
 ];
 
